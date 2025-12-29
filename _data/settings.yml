@@ -22,8 +22,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '上一页'
+  previous_page: '下一页'
 
 sharing_button_prompt: 'Feel free to share!'
 
