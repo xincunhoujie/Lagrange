@@ -4,7 +4,7 @@ title: "欢迎光临萌萌猫!"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: 1.jpg
 ---
 
 说什么呢，一只老虎三条腿，一直咪咪六条腿.
