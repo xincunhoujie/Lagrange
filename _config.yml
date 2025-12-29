@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           '黑老包'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+description:	       '开封有个包青天，铁面无私报忠奸'
+author:              'heihei'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
