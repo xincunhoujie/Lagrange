@@ -5,7 +5,6 @@ author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
-permalink: weiwei.html
 ---
 
 王羲之（303年-361年），字逸少，琅琊临沂（今山东省临沂市）人。东晋大臣、书法家，丹阳尹王旷的儿子，太尉郗鉴的女婿，有“书圣”之称。
