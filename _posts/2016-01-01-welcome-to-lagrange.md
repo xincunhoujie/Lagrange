@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "欢迎光临萌萌猫!"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+说什么呢，一只老虎三条腿，一直咪咪六条腿.
 
 ## Getting Started
 
