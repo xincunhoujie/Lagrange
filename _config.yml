@@ -21,8 +21,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           '黑面包'
-# description:	       '开封有个包青天，铁面无私报忠奸'
+description:	       '开封有个包青天，铁面无私报忠奸'
 author:              'heihei'
+tupian:              3.jpeg
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
