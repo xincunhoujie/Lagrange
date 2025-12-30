@@ -23,7 +23,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           '黑面包'
 description:	       ''
 author:              'heihei'
-tupian:              3.jpeg
+tupian:              
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
