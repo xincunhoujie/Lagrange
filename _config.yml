@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           '黑老包'
-description:	       '开封有个包青天，铁面无私报忠奸'
+title:		           '黑面包'
+# description:	       '开封有个包青天，铁面无私报忠奸'
 author:              'heihei'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
