@@ -11,6 +11,12 @@ menu:
 - {name: '使用说明', url: 'writing.html'}
 - {name: '联系信息', url: 'contact.html'}
 
+menu2:
+- {name: '孙悟空', url: 'about.html'}
+- {name: '猪八戒', url: 'writing.html'}
+- {name: '唐三藏', url: 'contact.html'}
+- {name: '沙悟净', url: 'contact.html'}
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'github',     link: 'https://www.github.com/lenpaul'}
