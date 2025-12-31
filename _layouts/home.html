@@ -31,6 +31,10 @@ layout: default
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
- {% for tag in page.tags %}
-                <li><a href="{{ relativebase }}tag.html?tag={{ tag | url_encode }}" class="tag {{ include.class }}">{{ tag }}</a></li>
-            {% endfor %}
+
+  {% for t in sorted_tags %}
+    <div><a >
+        {{ t -}}
+      </a>
+    </div>
+  {% endfor %}
