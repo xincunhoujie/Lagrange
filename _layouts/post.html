@@ -25,3 +25,14 @@ layout: default
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
+
+
+ <ul class="content ps-0">
+    {% for post in page.posts %}
+      <li class="d-flex justify-content-between px-md-3">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="dash flex-grow-1"></span>
+       
+      </li>
+    {% endfor %}
+  </ul>
