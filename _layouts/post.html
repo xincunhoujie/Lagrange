@@ -27,11 +27,4 @@ layout: default
 {% endif %}
 
 <p>{{ page.tags }}</p>
- {% for t in sorted_tags %}
-    <div>
-      <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
-        {{ t -}}
-        <span class="text-muted">{{ site.tags[t].size }}</span>
-      </a>
-    </div>
-  {% endfor %}
+
