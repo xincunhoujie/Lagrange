@@ -23,8 +23,12 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           '黑面包'
 description:	       ''
 author:              'heihei'
-tupian:              
+tupian:       
 
+# 隐藏相关内容
+hide_related_posts: 1
+# 隐藏文章日期
+hide_post_date: 1
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
