@@ -25,8 +25,8 @@ pagination:
   next_page: '下一页'
   previous_page: '上一页'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '欢迎分享!'
 
-related_posts: 'You may also enjoy:'
+related_posts: '相关内容:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: '发表于 '
