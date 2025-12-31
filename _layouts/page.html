@@ -12,12 +12,6 @@ layout: default
 
 
 <div id="tags" class="d-flex flex-wrap mx-xl-2">
-  {% assign tags = '' | split: '' %}
-  {% for t in site.tags %}
-    {% assign tags = tags | push: t[0] %}
-  {% endfor %}
-
-  {% assign sorted_tags = tags | sort_natural %}
 
   {% for t in sorted_tags %}
     <div>
