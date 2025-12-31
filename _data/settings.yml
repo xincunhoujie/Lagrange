@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: true 
-  # false
+  comments: false
+  #  true
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
@@ -12,11 +12,6 @@ menu:
 - {name: '使用说明', url: 'writing.html'}
 - {name: '联系信息', url: 'contact.html'}
 
-menu2:
-- {name: '孙悟空', url: 'about.html'}
-- {name: '猪八戒', url: 'writing.html'}
-- {name: '唐三藏', url: 'contact.html'}
-- {name: '沙悟净', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
