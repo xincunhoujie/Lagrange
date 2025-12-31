@@ -25,6 +25,8 @@ description:	       ''
 author:              'heihei'
 tupian:       
 
+# 隐藏分享按钮
+hide_post_share: true
 # 隐藏相关内容
 hide_related_posts: true
 # 隐藏文章日期
