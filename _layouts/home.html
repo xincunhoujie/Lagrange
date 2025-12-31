@@ -31,7 +31,12 @@ layout: default
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
-
+<!-- 标签云 -->
+{% assign lvl = page.url | append:'X' | split:'/' | size %}
+{% capture relativebase %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+{% if relativebase == '' %}
+	{% assign relativebase = './' %}
+{% endif %}
 <div class="tag-cloud">
     {% if include.context == "post" %}
         <ul class="tags {{ include.class }}">
