@@ -26,9 +26,9 @@ author:              'heihei'
 tupian:       
 
 # 隐藏相关内容
-hide_related_posts: 1
+hide_related_posts: 0
 # 隐藏文章日期
-hide_post_date: 1
+hide_post_date: 0
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
